@@ -1,2 +1,0 @@
-Pokedex Project in work... :)
-
