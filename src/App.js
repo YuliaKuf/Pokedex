@@ -1,9 +1,10 @@
 import "./App.css";
+import PokedexLogo from "./Images/Pokedex_logo.png";
 
 function App() {
   return (
     <div className="App">
-      <h1>pokedex</h1>
+      <img src={PokedexLogo} alt="Pokedex logo"></img>
     </div>
   );
 }
